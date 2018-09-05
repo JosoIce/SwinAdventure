@@ -1,0 +1,7 @@
+C:\Code\2.2\SwinAdventure\SwinAdventure\bin\Debug\SwinAdventure.exe.config
+C:\Code\2.2\SwinAdventure\SwinAdventure\bin\Debug\SwinAdventure.exe
+C:\Code\2.2\SwinAdventure\SwinAdventure\bin\Debug\SwinAdventure.pdb
+C:\Code\2.2\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.csprojAssemblyReference.cache
+C:\Code\2.2\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Code\2.2\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.exe
+C:\Code\2.2\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.pdb
