@@ -17,7 +17,18 @@ namespace SwinAdventure
 
         public GameObject Locate(string id)
         {
-            
+            if (id == "me")
+            {
+                return this;
+            }
+            else if (id == "inventory")
+            {
+                return this;
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public override string FullDescription

@@ -12,7 +12,7 @@ namespace SwinAdventure
 
         public Inventory()
         {
-
+            _items = new List<Item>();
         }
 
         public bool HasItem(string id)
@@ -32,12 +32,27 @@ namespace SwinAdventure
 
         public Item Take(string id)
         {
+            foreach (Item i in _items)
+            {
+                if (i.AreYou(id))
+                {
+                    Item tempItem = i;
+                    _items.Remove(i);
+                    return tempItem;
+                }
+            }
 
+            return null;
         }
 
         public Item Fetch(string id)
         {
+            foreach (Item i in _items)
+            {
+                if (i.AreYou(id)) return i;
+            }
 
+            return null;
         }
 
         public string ItemList
@@ -47,7 +62,7 @@ namespace SwinAdventure
                 string itemOutput = "";
                 foreach (Item i in _items)
                 {
-                    itemOutput += i.ShortDescription + "\n";
+                    itemOutput += "     " + i.ShortDescription + "\n";
                 }
                 return itemOutput;
             }
