@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SwinAdventure
 {
-    class Player : GameObject
+    public class Player : GameObject
     {
         private Inventory _inventory;
 
@@ -27,7 +27,7 @@ namespace SwinAdventure
             }
             else
             {
-                return null;
+                return _inventory.Fetch(id);
             }
         }
 
@@ -36,6 +36,14 @@ namespace SwinAdventure
             get
             {
                 return "You are carrying:\n" + _inventory.ItemList;
+            }
+        }
+
+        public Inventory Inventory
+        {
+            get
+            {
+                return _inventory;
             }
         }
     }

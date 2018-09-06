@@ -26,7 +26,7 @@ namespace SwinAdventure
         {
             get
             {
-                return _name + " " + FirstId;
+                return _name + " " + "(" + FirstId + ")";
             }
         }
 

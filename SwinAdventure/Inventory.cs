@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SwinAdventure
 {
-    class Inventory
+    public class Inventory
     {
         private List<Item> _items;
 
