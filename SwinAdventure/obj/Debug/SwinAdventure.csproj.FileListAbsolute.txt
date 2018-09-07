@@ -12,3 +12,10 @@ D:\UNI programming\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.csprojRes
 D:\UNI programming\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.csproj.CoreCompileInputs.cache
 D:\UNI programming\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.exe
 D:\UNI programming\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.pdb
+C:\Code\SwinAdventure\SwinAdventure\bin\Debug\SwinAdventure.exe.config
+C:\Code\SwinAdventure\SwinAdventure\bin\Debug\SwinAdventure.exe
+C:\Code\SwinAdventure\SwinAdventure\bin\Debug\SwinAdventure.pdb
+C:\Code\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.csprojAssemblyReference.cache
+C:\Code\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Code\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.exe
+C:\Code\SwinAdventure\SwinAdventure\obj\Debug\SwinAdventure.pdb
