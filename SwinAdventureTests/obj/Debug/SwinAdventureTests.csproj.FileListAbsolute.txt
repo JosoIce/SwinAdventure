@@ -27,7 +27,6 @@ D:\UNI programming\SwinAdventure\SwinAdventureTests\bin\Debug\SwinAdventure.pdb
 D:\UNI programming\SwinAdventure\SwinAdventureTests\bin\Debug\SwinAdventure.exe.config
 D:\UNI programming\SwinAdventure\SwinAdventureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 D:\UNI programming\SwinAdventure\SwinAdventureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-D:\UNI programming\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.csprojResolveAssemblyReference.cache
 D:\UNI programming\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.csproj.CoreCompileInputs.cache
 D:\UNI programming\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.dll
 D:\UNI programming\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.pdb
@@ -48,3 +47,5 @@ C:\Code\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.csproj.Cor
 C:\Code\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.csproj.CopyComplete
 C:\Code\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.dll
 C:\Code\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.pdb
+D:\UNI programming\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.csprojAssemblyReference.cache
+D:\UNI programming\SwinAdventure\SwinAdventureTests\obj\Debug\SwinAdventureTests.csproj.CopyComplete

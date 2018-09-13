@@ -9,9 +9,10 @@ namespace SwinAdventure
     public class Bag : Item
     {
         private Inventory _inventory;
+
         public Bag(string[] ids, string name, string desc) : base (ids, name, desc)
         {
-            
+            _inventory = new Inventory();
         }
 
         public GameObject Locate(string id)
@@ -27,7 +28,7 @@ namespace SwinAdventure
         {
             get
             {
-                return "You are carrying:\n" + _inventory.ItemList;
+                return "In the " + this.Name + " you see:\n" + _inventory.ItemList;
             }
         }
 
