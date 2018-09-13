@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bag.cs" />
     <Compile Include="GameObject.cs" />
     <Compile Include="IdentifiableObject.cs" />
     <Compile Include="Inventory.cs" />

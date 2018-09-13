@@ -49,6 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BagTests.cs" />
     <Compile Include="IdentifiableObjectTest.cs" />
     <Compile Include="InventoryTests.cs" />
     <Compile Include="ItemTests.cs" />
