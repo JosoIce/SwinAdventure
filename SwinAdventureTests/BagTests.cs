@@ -51,7 +51,7 @@ namespace SwinAdventureTests
             Item item = new Item(new string[] { "sword" }, "Sword", "Sharp, for stabbing");
             Bag bag = new Bag(new string[] { "bag" }, "Bag", "Stores Things");
             bag.Inventory.Put(item);
-            string expected = "In the Bag you see:" + "     Sword (sword)\n";
+            string expected = "In the Bag you see:" + "     Sword(sword)\n";
             Assert.AreEqual(bag.FullDescription, expected);
         }
 
