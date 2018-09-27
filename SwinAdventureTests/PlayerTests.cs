@@ -64,7 +64,7 @@ namespace SwinAdventureTests
             player.Inventory.Put(new Item(new string[] { "bow" }, "Bow", "Ranged Weapon"));
             player.Inventory.Put(new Item(new string[] { "axe" }, "Axe", "And my Axe!"));
 
-            string inventory = "You are carrying:\n" + "     Sword (sword)\n" + "     Bow (bow)\n" + "     Axe (axe)\n";
+            string inventory = "You are carrying:\n" + "\tSword (sword)\n" + "\tBow (bow)\n" + "\tAxe (axe)\n";
 
             Assert.AreEqual(player.FullDescription, inventory);
         }

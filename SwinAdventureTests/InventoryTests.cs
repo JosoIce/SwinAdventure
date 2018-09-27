@@ -102,7 +102,7 @@ namespace SwinAdventureTests
             inventory.Put(new Item(new string[] { "bow" }, "Bow", "Ranged Weapon"));
             inventory.Put(new Item(new string[] { "axe" }, "Axe", "And my Axe!"));
 
-            string expected = "     Sword (sword)\n" + "     Bow (bow)\n" + "     Axe (axe)\n";
+            string expected = "\tSword (sword)\n" + "\tBow (bow)\n" + "\tAxe (axe)\n";
 
             Assert.AreEqual(inventory.ItemList, expected);
         }

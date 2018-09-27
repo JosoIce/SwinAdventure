@@ -62,7 +62,7 @@ namespace SwinAdventure
                 string itemOutput = "";
                 foreach (Item i in _items)
                 {
-                    itemOutput += "     " + i.ShortDescription + "\n";
+                    itemOutput += "\t" + i.ShortDescription + "\n";
                 }
                 return itemOutput;
             }
