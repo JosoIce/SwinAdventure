@@ -34,7 +34,7 @@ namespace SwinAdventure
             // Player Inventory
             if (text.Length == 3)
             {
-                result = LookAtIn(text[2], (IHaveInventory)p);
+                result = LookAtIn(text[2], p);
                 if (result == "")
                 {
                     return "I cannot find the " + text[2];

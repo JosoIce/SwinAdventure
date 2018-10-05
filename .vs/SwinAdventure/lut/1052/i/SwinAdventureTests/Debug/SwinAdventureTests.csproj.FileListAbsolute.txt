@@ -1,0 +1,7 @@
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\b\SwinAdventureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\b\SwinAdventureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\b\SwinAdventureTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\b\SwinAdventureTests\bin\Debug\SwinAdventureTests.dll
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\i\SwinAdventureTests\Debug\SwinAdventureTests.csproj.CoreCompileInputs.cache
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\i\SwinAdventureTests\Debug\SwinAdventureTests.csproj.CopyComplete
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\i\SwinAdventureTests\Debug\SwinAdventureTests.dll

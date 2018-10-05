@@ -1,0 +1,5 @@
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\b\SwinAdventure\bin\Debug\SwinAdventure.exe.config
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\b\SwinAdventure\bin\Debug\SwinAdventure.exe
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\i\SwinAdventure\Debug\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\i\SwinAdventure\Debug\SwinAdventure.csproj.CopyComplete
+C:\Code\SwinAdventure\.vs\SwinAdventure\lut\0\i\SwinAdventure\Debug\SwinAdventure.exe
